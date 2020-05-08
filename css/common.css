@@ -1,0 +1,15 @@
+:root {
+  --primary-text-color: #757575;
+  --secondary-text-color: #212121;
+  --white-color: #ffffff;
+  --accent-color: #2196f3;
+}
+
+.body {
+  background-color: var(--white-color);
+  color: var(--primary-text-color);
+}
+
+ul {
+  list-style: none;
+}
