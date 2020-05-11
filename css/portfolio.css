@@ -23,6 +23,11 @@
   background-color: var(--accent-color);
 }
 
+.filter-list .filter:focus {
+  color: var(--white-color);
+  background-color: var(--accent-color);
+}
+
 .examples .examples-title {
   color: var(--secondary-text-color);
 

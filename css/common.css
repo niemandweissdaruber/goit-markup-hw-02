@@ -55,6 +55,12 @@ a.phone {
   color: var(--accent-color);
 }
 
+.header-style .link:focus,
+.header-style .mail:focus,
+.header-style .phone:focus {
+  color: var(--accent-color);
+}
+
 /* Footer */
 
 footer {
